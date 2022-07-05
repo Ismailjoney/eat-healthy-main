@@ -1,7 +1,8 @@
 body{
     margin:0;
+    font-size:20px;
 }
-section{
+ .flex-contain{
     display:flex;
 }
 .half-width{
@@ -26,4 +27,9 @@ h1{
 }
 .orange{
     color:orange;
+}
+
+/**************/
+#about-me{
+    background-image: url(images/shapes/Frame\ 58.jpg);
 }
