@@ -8,6 +8,7 @@ body{
 .half-width{
     width:50%;
     padding:90px;
+    padding-bottom: 150px;;
 }
 .banner-pra{
     padding-bottom:17px;
@@ -33,3 +34,34 @@ h1{
 #about-me{
     background-image: url(images/shapes/Frame\ 58.jpg);
 }
+#My-Recipies {
+    text-align: center;
+    
+}
+.Recipies-pra {
+    padding-bottom: 50px;
+}
+ 
+.food-box{
+    box-shadow:10px 10px 40px gray;
+    padding:16px 16px;
+    margin-left:5%;
+    margin-right: 5%;
+}
+#My-Recipies{
+    text-align: center;
+    padding:150px 0px;
+}
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
