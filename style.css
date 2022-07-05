@@ -1,0 +1,29 @@
+body{
+    margin:0;
+}
+section{
+    display:flex;
+}
+.half-width{
+    width:50%;
+    padding:90px;
+}
+.banner-pra{
+    padding-bottom:17px;
+}
+  .order-btn{
+    text-decoration: none;
+    background-image: linear-gradient(yellow,red);
+    padding:10px 40px;
+    border-radius:10px;
+ } 
+.half-width img{
+    width:95%;
+}    
+ 
+h1{
+    font-size:50px;
+}
+.orange{
+    color:orange;
+}
