@@ -4,11 +4,20 @@ body{
 }
  .flex-contain{
     display:flex;
+    padding-bottom:100px;
 }
 .half-width{
     width:50%;
     padding:90px;
-    padding-bottom: 150px;;
+     
+}
+.banner-bg{
+    background-color:darkmagenta;
+    clip-path: polygon(0 0, 100% 0%, 100% 63%, 0% 100%);
+
+}
+.man-bg img{
+    padding-top: 40px;
 }
 .banner-pra{
     padding-bottom:17px;
@@ -38,9 +47,9 @@ h1{
     text-align: center;
     
 }
-.Recipies-pra {
+/* .Recipies-pra {
     padding-bottom: 50px;
-}
+} */
  
 .food-box{
     box-shadow:10px 10px 40px gray;
@@ -50,7 +59,24 @@ h1{
 }
 #My-Recipies{
     text-align: center;
-    padding:150px 0px;
+     
+}
+/******************/
+#social-site{
+    display: flex;
+    justify-content: space-around;
+     margin-left:5%;
+     margin-right: 5%;
+     box-shadow: 10px 10px 30px gray;
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:10px 0px 30px 0;
+    margin-left: 5%;
+    margin-right: 5%;
+    border:3px solid gray;
 }
  
  
