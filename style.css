@@ -1,6 +1,9 @@
 body{
     margin:0;
     font-size:20px;
+    font-family: 'Josefin Sans', sans-serif;
+
+    font-family: 'Luxurious Roman', cursive;
 }
  .flex-contain{
     display:flex;
